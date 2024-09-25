@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eba9699-c7b0-433f-be5d-4df60acafc2f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/augustana/Main.java" afterDir="false" />
+    <list default="true" id="45a3e3a6-373b-4fd5-bcfd-87e2d5b9a6b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/augustana/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/augustana/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2mZkQwFii8RWgwQnb9lYocnnKbW" />
+  <component name="ProjectId" id="2mZlLCMedv885Uc1cpLoStHs3O2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,18 +27,17 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/git/TestRepo/SillyBirdProject"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8eba9699-c7b0-433f-be5d-4df60acafc2f" name="Changes" comment="" />
-      <created>1727291472312</created>
+      <changelist id="45a3e3a6-373b-4fd5-bcfd-87e2d5b9a6b5" name="Changes" comment="" />
+      <created>1727291922459</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727291472312</updated>
+      <updated>1727291922459</updated>
     </task>
     <servers />
   </component>
